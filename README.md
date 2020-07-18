@@ -1,5 +1,5 @@
 # Python-Machine-Learning---AI-implementation-in-Credit-Card-Scam-Detection
-It detects and labels the output as fraud and not fraud according to the test dataset. Since it's a binary classification logistic regression provided better results than that of the other classifiers
+It detects and analyzes the input therefore, labels the input whether it's fraud or not fraud according to the test dataset. Since it's a binary classification logistic regression provided better results than that of the other classifiers
 
 # AI implementatiomn in Credit Card Scam Detection
 
