@@ -4,11 +4,11 @@ It detects and labels the output as fraud and not fraud according to the test da
 # AI implementatiomn in Credit Card Scam Detection
 
 ### Dataset Collection.
-I use open source dataset available on Kaggle. Here is the link to the dataset https://www.kaggle.com/mlg-ulb/creditcardfraud. 
+I used open source dataset available on Kaggle. Here is the link to the dataset https://www.kaggle.com/mlg-ulb/creditcardfraud. 
 
 ### How to use the notebook. 
- 1. Download the dataset from kaggle and put into same folder with the notebook.
+ 1. Download the dataset from kaggle.
  2. Clone the repository. 
- 3. Run the notebook and you will be able to see the results and plots of the data showing different patterns. 
+ 3. Run the notebook and you will be able to see the results and visualization of the data. 
  4. If you don't want to clone then you just simply run these codes and you can observe the desired result.
 
